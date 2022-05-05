@@ -126,7 +126,15 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Node.js'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'TypeScript',
+    'React',
+    'Node.js',
+    'Core Java',
+    'Selenium',
+    'Script #',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -137,7 +145,8 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Karan and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2010 when I looked my sister do some C patterns — turns out I feel very good creating the for loops :)
+              interest in web development started back in 2010 when I looked my sister do some C
+              patterns — turns out I feel very good creating the for loops :)
             </p>
 
             <p>

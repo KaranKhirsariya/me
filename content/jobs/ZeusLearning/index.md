@@ -1,10 +1,10 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2016-06-06'
+title: 'Module Lead'
+company: 'Zeus Learning'
+location: 'Mumbai, India'
+range: 'June 2016 - December 2020'
+url: 'https://zeuslearning.com/'
 ---
 
 - Developed and shipped highly interactive web applications for Apple Music using Ember.js
