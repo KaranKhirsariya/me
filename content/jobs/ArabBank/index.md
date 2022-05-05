@@ -4,9 +4,8 @@ title: 'Senior Developer'
 company: 'Arab Bank'
 location: 'Dubai, UAE (remote)'
 range: 'December 2020 - present'
-url: 'https://arabbank.com/'
+url: 'https://arabbank.com.jo/'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Leading team who successfully created multiple React applications for Mortgages, Customer Onboarding, SMEs Onboarding and SMEs Lending with Localization and banking standards security.
+- Created Central Backoffice application with full support of Role Based Access Control (RBAC) for different modules.
