@@ -175,7 +175,7 @@ const Nav = ({ isHome }) => {
   const ResumeLink = (
     <a
       className="resume-button"
-      href="/Karan-Khirsariya_Resume_v2.1_.pdf"
+      href="/Karan-Khirsariya-Resume.pdf"
       target="_blank"
       rel="noopener noreferrer"
     >
