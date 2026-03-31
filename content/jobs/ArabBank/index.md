@@ -1,11 +1,13 @@
 ---
 date: '2020-12-06'
-title: 'Senior Developer'
+title: 'Senior Software Engineer'
 company: 'Arab Bank'
-location: 'Dubai, UAE (remote)'
-range: 'December 2020 - present'
-url: 'https://arabbank.com.jo/'
+location: 'Dubai UAE (remote), Kochi India (remote)'
+range: 'December 2020 - May 2023'
+url: 'https://acabesinternational.com/'
 ---
 
-- Leading team who successfully created multiple React applications for Mortgages, Customer Onboarding, SMEs Onboarding and SMEs Lending with Localization and banking standards security.
-- Created Central Backoffice application with full support of Role Based Access Control (RBAC) for different modules.
+- Worked on various SME banking and customer portal, Retail Banking portal, Card management, Onboarding and Payment Gateways websites.
+- Collaborated and guided a team of 15-20 to develop high-quality web applications using React.js and Node.js.
+- Review and grow the team development work from scratch to boost organization growth at large scale.
+- Tech stack: HTML, CSS, Javascript, React, MaterialUI, APIGEE, Springboot, JAVA, MongoDB, Express, NodeJs.

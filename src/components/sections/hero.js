@@ -64,17 +64,16 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m an experienced software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://arabbank.com.jo/" target="_blank" rel="noreferrer">
-          Arab Bank
+        I'm an innovative full-stack developer with 9+ years of experience specializing in MERN,
+        AI/LLM integrations, and cutting-edge web applications. Currently, I'm building SaaS
+        products and spearheading AI enhancements at{' '}
+        <a href="https://frontrol.com" target="_blank" rel="noreferrer">
+          Frontrol Inc
         </a>
         .
       </p>
     </>
   );
-
 
   const items = [one, two, three, four];
 

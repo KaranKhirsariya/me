@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Karan Khirsariya',
     description:
-      'Karan Khirsariya is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Karan Khirsariya is an innovative full-stack developer specializing in MERN, AI/LLM integrations, and building impactful web applications.',
     siteUrl: 'https://karankhirsariya.dev', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@karankhirsariya',

@@ -175,10 +175,9 @@ const Nav = ({ isHome }) => {
   const ResumeLink = (
     <a
       className="resume-button"
-      href="/Karan-Khirsariya-Resume.pdf"
+      href="/senior-software-engineer-march-31-2026.pdf"
       target="_blank"
-      rel="noopener noreferrer"
-    >
+      rel="noopener noreferrer">
       Resume
     </a>
   );

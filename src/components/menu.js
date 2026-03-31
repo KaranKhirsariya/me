@@ -246,8 +246,7 @@ const Menu = () => {
           onClick={toggleMenu}
           menuOpen={menuOpen}
           ref={buttonRef}
-          aria-label="Menu"
-        >
+          aria-label="Menu">
           <div className="ham-box">
             <div className="ham-box-inner" />
           </div>
@@ -267,7 +266,7 @@ const Menu = () => {
               </ol>
             )}
 
-            <a href="/Karan-Khirsariya-Resume-2025.pdf" className="resume-link">
+            <a href="/senior-software-engineer-march-31-2026.pdf" className="resume-link">
               Resume
             </a>
           </nav>

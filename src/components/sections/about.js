@@ -129,11 +129,12 @@ const About = () => {
   const skills = [
     'JavaScript (ES6+)',
     'TypeScript',
-    'React',
-    'Node.js',
-    'Core Java',
-    'Selenium',
-    'Script #',
+    'React / Next.js',
+    'Node.js / Express / NestJS',
+    'Python / Django',
+    'Langchain / LangGraph',
+    'Docker / Kubernetes',
+    'PostgreSQL / MongoDB',
   ];
 
   return (
@@ -150,20 +151,14 @@ const About = () => {
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://zeuslearning.com/">Service based company</a>,{' '}
-              <a href="https://arabbank.com/">a popular Bank in middle east</a>,{' '}
+              Fast-forward to today, and I've had the privilege of working at{' '}
+              <a href="https://zeuslearning.com/">a leading ed-tech company</a>,{' '}
+              <a href="https://acabesinternational.com/">a major bank in the Middle East</a>, and{' '}
+              <a href="https://frontrol.com/">a SaaS product company</a> where I currently spearhead
+              development and AI enhancements with Langchain and multi-agent systems.
             </p>
-            {/* <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
-            </p> */}
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few technologies I've been working with recently:</p>
           </div>
 
           <ul className="skills-list">
